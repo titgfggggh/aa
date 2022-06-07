@@ -29,6 +29,7 @@ FFB266
     transition: all .5s ease 0s;
      border-radius: 4px;
     background: #0000a5;
+    z-index: 0;
     }
 #navigationbar {
     margin-top: 15px;
