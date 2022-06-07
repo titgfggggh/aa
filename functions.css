@@ -26,6 +26,8 @@ FFB266
     font-weight: lighter;
     user-select: none;
     cursor: pointer;
+    transition: all .5s ease 0s;
+     border-radius: 8px
     }
 #navigationbar {
     margin-top: 15px;
