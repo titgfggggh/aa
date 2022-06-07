@@ -27,8 +27,6 @@ FFB266
     user-select: none;
     cursor: pointer;
     transition: all .5s ease 0s;
-     border-radius: 4px;
-    background: #0000a5;
     z-index: 0;
     }
 #navigationbar {
